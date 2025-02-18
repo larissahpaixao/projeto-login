@@ -35,6 +35,11 @@
         height: 330px;
     }
 
+    div.campo {
+        height: 40px;
+    }
+
+    
     section#login div#imagem {
         float: right;
         width: 50%;
